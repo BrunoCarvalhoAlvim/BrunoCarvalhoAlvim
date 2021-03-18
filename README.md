@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BrunoCarvalhoAlvim
 - 👀 I’m interested in computers and learning how to learn
 - 🌱 I’m currently learning Python
-- 📫 How to reach me brunocarvalhoalvim@gamil.com
+- 📫 How to reach me brunocarvalhoalvim@gmail.com
 
 <!---
 BrunoCarvalhoAlvim/BrunoCarvalhoAlvim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

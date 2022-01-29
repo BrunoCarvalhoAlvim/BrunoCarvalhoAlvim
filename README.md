@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrunoCarvalhoAlvim
 - 👀 I’m interested in computers and learning how to learn
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Kubernetes, Docker, Go, Python ..... 
 - 📫 How to reach me brunocarvalhoalvim@gmail.com
 
 <!---

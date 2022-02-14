@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BrunoCarvalhoAlvim
-- 👀 I’m interested in computers and learning how to learn
-- 🌱 I’m currently learning Kubernetes, Docker, Go, Python ..... 
-- 📫 How to reach me brunocarvalhoalvim@gmail.com
+- 👋 Ola, eu me chamo Bruno Alvim
+- 👀 Estou aprendendo a codar e coisas relacionadas a DevOps 
+- 🌱 Atualmente eu estou aprendendo Kubernetes, Docker, Go, Python ..... 
+- 📫 Voce pode me contactar atraves do email brunocarvalhoalvim@gmail.com
 
 <!---
 BrunoCarvalhoAlvim/BrunoCarvalhoAlvim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

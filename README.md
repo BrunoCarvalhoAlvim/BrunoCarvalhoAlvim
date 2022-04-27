@@ -1,5 +1,5 @@
 - 👋 Ola, eu me chamo Bruno Alvim
-- 👀 Estou aprendendo a codar e coisas relacionadas a DevOps 
+- 👀 Estou aprendendo a codar e coisas em Python
 - 🌱 Atualmente eu estou aprendendo Kubernetes, Docker, Go, Python ..... 
 - 📫 Voce pode me contactar atraves do email brunocarvalhoalvim@gmail.com
 
